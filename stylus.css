@@ -20,6 +20,10 @@
     display: none;
 }
 
+.u-bottomFixer {
+    display: none;
+}
+
 .message-content {
     padding: 5px;
     border-radius: 7px;
@@ -47,10 +51,6 @@
 }
 
 .p-breadcrumbs-wrap {
-    display: none;
-}
-
-.u-bottomFixer {
     display: none;
 }
 
