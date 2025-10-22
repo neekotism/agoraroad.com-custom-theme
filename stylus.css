@@ -20,6 +20,9 @@ agoraroad.com.message-content {
 
 .siropuChatMessages > li {
     margin-top: 10px;
+    padding: 5px;
+    border-radius: 7px;
+    border: 2px dashed rgb(142, 201, 117);
 }
 
 .focus-content {
