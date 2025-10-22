@@ -1,0 +1,31 @@
+// The thingy below is for https://agoraroad.com/ in stylus extension
+
+agoraroad.com.message-content {
+    padding: 5px;
+    border-radius: 7px;
+    border: 2px dashed rgb(142, 201, 117);
+}
+
+// The thingy below is for https://forum.agoraroad.com/index.php?chat/ in stylus extension
+
+.siropuChatUsers > li {
+    padding: 5px;
+    border-radius: 7px;
+    border: 2px dashed rgb(142, 201, 117);
+}
+
+#footer {
+    padding-top: 0px;
+}
+
+.siropuChatMessages > li {
+    margin-top: 10px;
+}
+
+.focus-content {
+    height: auto;
+}
+
+.siropuChatPage #siropuChatContent {
+  height: 500px;
+}
