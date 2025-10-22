@@ -1,6 +1,10 @@
 // The thingy below is for https://agoraroad.com/ in stylus extension
 
-agoraroad.com.message-content {
+.p-pageWrapper {
+    background-image: url('https://github.com/neekotism/agoraroad.com-custom-theme/blob/main/background.jpg?raw=true');
+}
+
+.message-content {
     padding: 5px;
     border-radius: 7px;
     border: 2px dashed rgb(142, 201, 117);
