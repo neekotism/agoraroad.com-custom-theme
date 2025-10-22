@@ -1,4 +1,4 @@
-// The thingy below is for https://agoraroad.com/ in stylus extension
+/* The thingy below is for https://agoraroad.com/ in stylus extension */
 
 .p-pageWrapper {
     background-image: url('https://github.com/neekotism/agoraroad.com-custom-theme/blob/main/background.jpg?raw=true');
@@ -10,7 +10,7 @@
     border: 2px dashed rgb(142, 201, 117);
 }
 
-// The thingy below is for https://forum.agoraroad.com/index.php?chat/ in stylus extension
+/* The thingy below is for https://forum.agoraroad.com/index.php?chat/ in stylus extension */
 
 .siropuChatUsers > li {
     padding: 5px;
