@@ -4,6 +4,22 @@
     background-image: url('https://github.com/neekotism/agoraroad.com-custom-theme/blob/main/background.jpg?raw=true');
 }
 
+.p-header-content {
+    display: none;
+}
+
+.focus-ad {
+    display: none;
+}
+
+.focus-breadcrumb {
+    display: none;
+}
+
+.xenfocus-social {
+    display: none;
+}
+
 .message-content {
     padding: 5px;
     border-radius: 7px;
@@ -20,6 +36,22 @@
 
 #footer {
     padding-top: 0px;
+}
+
+.block {
+    display: none;
+}
+
+.block#siropuChat {
+    display: block;
+}
+
+.p-breadcrumbs-wrap {
+    display: none;
+}
+
+.u-bottomFixer {
+    display: none;
 }
 
 .siropuChatMessages > li {
